@@ -1,3 +1,5 @@
+/*the main idea here is to produce as much 0 as possible and within the k<=m*/
+
 #include<bits/stdc++.h>
 #define ll long long
 #define endl "\n"
